@@ -13,7 +13,7 @@ const collections = [
     title: "Miền Trung",
     subtitle: "Họa tiết Biển & Di Sản",
     description: "Cảm hứng từ sóng biển miền Trung và hoa văn kiến trúc cổ, với gam xanh biển - cát - nắng, thiết kế nhẹ nhàng và tinh tế.",
-    image: "/assets/images/ao_thun1.png"
+    image: "/images/ao_thun1.png"
   },
   {
     title: "Miền Nam",

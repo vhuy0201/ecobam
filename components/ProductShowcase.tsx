@@ -13,14 +13,14 @@ const products = [
     id: 2,
     name: "Nón Tre Hiện Đại",
     category: "Nón",
-    image: "/assets/images/non1.png",
+    image: "/images/non1.png",
     description: "Thoáng khí, kháng khuẩn tự nhiên, bảo vệ bạn dưới nắng."
   },
   {
     id: 3,
     name: "Vòng Tay Sợi Tre",
     category: "Phụ kiện",
-    image: "/assets/images/vong_tay1.jpeg",
+    image: "/images/vong_tay1.jpeg",
     description: "Nhỏ gọn, tinh tế, mang đậm tinh thần Eco-friendly."
   }
 ];

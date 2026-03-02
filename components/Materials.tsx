@@ -52,7 +52,7 @@ const Materials: React.FC = () => {
           <div className="aspect-square rounded-full border-2 border-white/20 p-4 animate-[spin_20s_linear_infinite]">
             <div className="w-full h-full rounded-full border-2 border-white/10 p-4">
                <img 
-                src="/assets/images/material.png" 
+                src="/images/material.png" 
                 alt="Bamboo Fabric Texture" 
                 className="w-full h-full object-cover rounded-full rotate-[-15deg] transition-all"
               />
