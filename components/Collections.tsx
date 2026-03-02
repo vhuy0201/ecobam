@@ -7,19 +7,19 @@ const collections = [
     title: "Miền Bắc",
     subtitle: "Họa tiết Núi Rừng Tây Bắc",
     description: "Lấy cảm hứng từ hoa văn thổ cẩm và núi rừng hùng vĩ, sử dụng tông màu đất, xanh rêu và form dáng tự do, phóng khoáng.",
-    image: "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?auto=format&fit=crop&q=80&w=800"
+    image: "/images/ao_mienbac.png"
   },
   {
     title: "Miền Trung",
     subtitle: "Họa tiết Biển & Di Sản",
     description: "Cảm hứng từ sóng biển miền Trung và hoa văn kiến trúc cổ, với gam xanh biển - cát - nắng, thiết kế nhẹ nhàng và tinh tế.",
-    image: "/images/ao_thun1.png"
+    image: "/images/ao_mientrung.png"
   },
   {
     title: "Miền Nam",
     subtitle: "Họa tiết Đồng Bằng Sông Nước",
     description: "Tái hiện nét mềm mại của sông nước miền Tây qua đường nét uyển chuyển, màu nâu đất và xanh lá, mang cảm giác gần gũi và phóng khoáng.",
-    image: "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?auto=format&fit=crop&q=80&w=800"
+    image: "/images/ao_miennam.png"
   }
 ];
 
